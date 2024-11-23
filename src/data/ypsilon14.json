@@ -12,7 +12,7 @@
                 "YPSILON-14",
                 "==========",
                 "",
-                "Welcome to the Ypsilon-14 Mining Station, a property of ISHIYAMA DYNAMICS (c), where innovation is our top priority (tm).",
+                "Welcome to the Ypsilon-14 Mining Station, a property of DELIGO FURTHER (c), where innovation is our top priority (tm).",
                 "==========",
                 "",
                 {
@@ -112,7 +112,7 @@
                 "===========",
                 "",
                 "SUMMARY:",
-                "All systems operating within acceptible parameters.",
+                "All systems operating within acceptable parameters.",
                 "",
                 "======",
                 "",
@@ -132,10 +132,10 @@
                 "",
                 "Docking bay activity (past 6 months):",
                 "",
-                "2366-06-12.0633 - Bay 2 : Arrive :: Tempest",
-                "2366-04-29.0834 - Bay 1 : Arrive :: Heracles",
-                "2366-03-02.1223 - Bay 2 : Depart :: Key Largo",
-                "2366-02-20.1604 - Bay 2 : Arrive :: Key Largo",
+                "1989-06-02.0633 - Bay 2 : Arrive :: Tempest",
+                "1989-04-29.0834 - Bay 1 : Arrive :: Heracles",
+                "1989-02-21.1223 - Bay 2 : Depart :: Key Largo",
+                "1989-02-20.1604 - Bay 2 : Arrive :: Key Largo",
                 "",
                 "======",
                 "",
@@ -161,7 +161,7 @@
                 "06. RADIMIR, Mikhail     :: Lead Engineer",
                 "07. KANTARO, Kenji       :: Loader",
                 "08. BOWE, Morgan         :: Loader",
-                "09. NEKTARIOS, Ri        :: Loader",
+                "09. NEKTARIOS, Rie       :: Loader",
                 "10. n/a",
                 "",
                 "======",
@@ -507,7 +507,7 @@
                 {
                     "type": "text",
                     "className": "alert",
-                    "text": "WARNING: Disabling life support is a violation of company policy #2778-A. ISHIYAMA DYNAMICS assumes no responsibilities or liabilities resulting from the improper use of this feature."
+                    "text": "WARNING: Disabling life support is a violation of company policy #2778-A. DELIGO FURTHER assumes no responsibilities or liabilities resulting from the improper use of this feature."
                 },
                 "",
                 {
@@ -543,7 +543,7 @@
                 {
                     "type": "text",
                     "className": "alert",
-                    "text": "WARNING: Destruction of corporate property is a violation of company policy #2778-B. ISHIYAMA DYNAMICS assumes no responsibilities or liabilities resulting from the improper use of this feature."
+                    "text": "WARNING: Destruction of corporate property is a violation of company policy #2778-B. DELIGO FURTHER assumes no responsibilities or liabilities resulting from the improper use of this feature."
                 },
                 "",
                 {
