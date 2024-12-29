@@ -12,7 +12,7 @@
                 "YPSILON-14",
                 "==========",
                 "",
-                "Welcome to the Ypsilon-14 Mining Station, a property of DELIGO FURTHER (c), where innovation is our top priority (tm).",
+                "Welcome to the Ypsilon-14 Mining Station, a property of YSHIYAMA DYNAMICS (c), where innovation is our top priority (tm).",
                 "==========",
                 "",
                 {
@@ -507,7 +507,7 @@
                 {
                     "type": "text",
                     "className": "alert",
-                    "text": "WARNING: Disabling life support is a violation of company policy #2778-A. DELIGO FURTHER assumes no responsibilities or liabilities resulting from the improper use of this feature."
+                    "text": "WARNING: Disabling life support is a violation of company policy #2778-A. YSHIYAMA DYNAMICS assumes no responsibilities or liabilities resulting from the improper use of this feature."
                 },
                 "",
                 {
@@ -543,7 +543,7 @@
                 {
                     "type": "text",
                     "className": "alert",
-                    "text": "WARNING: Destruction of corporate property is a violation of company policy #2778-B. DELIGO FURTHER assumes no responsibilities or liabilities resulting from the improper use of this feature."
+                    "text": "WARNING: Destruction of corporate property is a violation of company policy #2778-B. YSHIYAMA DYNAMICS assumes no responsibilities or liabilities resulting from the improper use of this feature."
                 },
                 "",
                 {
